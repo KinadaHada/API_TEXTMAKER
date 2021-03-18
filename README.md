@@ -13,7 +13,7 @@ URL = https://script.google.com/macros/s/AKfycbwAMS0_0_722bUZGxgwBz5cbBOMJ1kA275
 |       aov          | Efek Avatar AOV                   |
 |       alol         | Efek Avatar League of Legends     |
 
-Contoh Pemakaian API : https://script.google.com/macros/s/AKfycbwAMS0_0_722bUZGxgwBz5cbBOMJ1kA275x2OsvXc79PuSYtHFjVN3jitwzJ5hLnK5G/exec?shadow=APi MAKER
+Contoh Pemakaian API : https://script.google.com/macros/s/AKfycbwAMS0_0_722bUZGxgwBz5cbBOMJ1kA275x2OsvXc79PuSYtHFjVN3jitwzJ5hLnK5G/exec?shadow=TEXT+MAKER
 
 
 ## Terima Kasih Untuk
