@@ -5,6 +5,7 @@
 
 ## V1
 Text Maker API V1, harap diingat ini hasilnya text bukan json...
+<br>
 URL = https://script.google.com/macros/s/AKfycbwAMS0_0_722bUZGxgwBz5cbBOMJ1kA275x2OsvXc79PuSYtHFjVN3jitwzJ5hLnK5G/exec
 
 |       Param        |              Nama Efek            |
