@@ -18,4 +18,5 @@ Contoh Pemakaian API V1 : https://script.google.com/macros/s/AKfycbwAMS0_0_722bU
 
 ## Terima Kasih Untuk
 Diri Saya sendiri
+<br>
 Anggota <a href="https://t.me/GASTestingGroup">@GASTestingGroup</a>
