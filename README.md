@@ -17,3 +17,5 @@ Pemakaian API : URL?Param=text (<a href="https://script.google.com/macros/s/AKfy
 
 
 ## Terima Kasih Untuk
+Diri Saya sendiri
+Anggota <a href="https://t.me/GASTestingGroup">@GASTestingGroup</a>
