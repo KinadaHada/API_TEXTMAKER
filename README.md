@@ -1,7 +1,7 @@
 # API_TEXTMAKER
-<p align="center">
+
 <a href="https://github.com/KinadaHada"><img title="Author" src="https://img.shields.io/badge/Author-KinadaHada-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
+
 Text Maker API, harap diingat ini hasilnya text bukan json...
 
 ## V1
