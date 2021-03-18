@@ -20,6 +20,7 @@ Contoh Pemakaian API V1 : https://script.google.com/macros/s/AKfycbwAMS0_0_722bU
 
 ## V 1.1
 <b>Hasil sudah berubah menjadi JSON</b>
+<br>
 URL = https://tinyurl.com/apitextmaker1-1
 
 
